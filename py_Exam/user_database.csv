@@ -1,0 +1,4 @@
+id,name,username,password,confirm_password,created_at,updated_at
+1,David,dpad22,$2b$12$kr1ufzGoNGvckG7x0JRMLecdxFgR9YTsA4.vdCGsXn./HQffR1oG2,$2b$12$kr1ufzGoNGvckG7x0JRMLecdxFgR9YTsA4.vdCGsXn./HQffR1oG2,2020-04-26 16:01:54.107778,2020-04-26 16:01:54.107819
+2,tikki,tikki16,$2b$12$zbNJRf1jGb.I4Hale6x8xOSRqcqxgme38wyDCJ4RaJsF7/YeWiS5a,$2b$12$zbNJRf1jGb.I4Hale6x8xOSRqcqxgme38wyDCJ4RaJsF7/YeWiS5a,2020-04-26 18:55:20.561039,2020-04-26 18:55:20.561076
+3,Cooper,cooper20,$2b$12$2wUEETEtfHr0iitRMMv7feVRyz20Mde95WBNySV8wM3cf/FmK6rd6,$2b$12$2wUEETEtfHr0iitRMMv7feVRyz20Mde95WBNySV8wM3cf/FmK6rd6,2020-04-26 19:44:56.003437,2020-04-26 19:44:56.003475

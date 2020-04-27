@@ -1,0 +1,5 @@
+id,destination,description,travel_end,uploader_id,created_at,updated_at,travel_start
+1,Iceland,See the Northern Lights,2020-11-08,1,2020-04-26 18:36:41.324850,2020-04-26 18:36:41.324906,2020-11-01
+2,hawaii,go to the beach,2020-06-16,2,2020-04-26 19:01:24.635254,2020-04-26 19:01:24.635303,2020-06-09
+3,Puerto Rico,Visit Grandpa,2020-07-15,1,2020-04-26 19:24:00.794260,2020-04-26 19:24:00.794292,2020-07-08
+4,New York,Visit Grandpa,2020-04-30,3,2020-04-26 19:47:48.757222,2020-04-26 19:47:48.757264,2020-04-29
